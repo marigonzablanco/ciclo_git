@@ -3,5 +3,6 @@ public class inico {
         System.out.println("hello");
 
         System.out.println("otro");
+System.out.println("otro");
     }
 }
